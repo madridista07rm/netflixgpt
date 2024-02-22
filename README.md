@@ -1,4 +1,4 @@
-# for live application visit -https://netflix-gpt-510fd.web.app/
+
 
 # Getting Started with Create React App
 
